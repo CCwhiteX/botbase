@@ -28,6 +28,7 @@ $ git clone https://github.com/CCwhiteX/botbase.git
 $ python3 -m venv .venv
 $ source .venv/bin/activate
 $ python3 -m pip install -r req.txt
+$ chmod +x busybox
 ```
 
 We go to telegram, look for @botfather 
@@ -40,4 +41,11 @@ That's it, let's launch and checking
 ```sh
 $ python3 run.py
 ```
-##Of course, the project is still raw, so we won’t judge it too harshly
+## Of course, the project is still raw, so we won’t judge it too harshly
+
+__I will be involved in this project busybox__
+
+_Website busybox: https://busybox.net
+Download source code busybox: https://busybox.net/downloads
+License busybox: https://busybox.net/license.html_
+
